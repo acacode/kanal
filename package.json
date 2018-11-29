@@ -1,0 +1,43 @@
+{
+  "name": "kanal",
+  "version": "0.0.1--alpha",
+  "description": "data provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "event-emitter",
+    "emitter",
+    "channel",
+    "emitter-pattern"
+  ],
+  "author": "acacode",
+  "license": "MIT",
+  "devDependencies": {
+    "ajv": "6.0.0",
+    "babel-cli": "6.26.0",
+    "babel-core": "6.26.3",
+    "babel-eslint": "8.2.1",
+    "babel-loader": "7.1.4",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-stage-2": "6.24.1",
+    "chai": "4.2.0",
+    "eslint": "4.18.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-config-standard": "11.0.0",
+    "eslint-plugin-import": "2.9.0",
+    "eslint-plugin-node": "6.0.1",
+    "eslint-plugin-prettier": "2.5.0",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-standard": "3.0.1",
+    "mocha": "5.2.0",
+    "prettier": "1.10.2",
+    "sinon": "7.1.1",
+    "sinon-chai": "3.2.0",
+    "webpack": "4.16.5",
+    "webpack-cli": "3.1.0"
+  },
+  "typings": "./index.d.ts"
+}
