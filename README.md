@@ -1,7 +1,7 @@
 <div align="center">
   <h1>kanal</h1>
   <h1>
-    <a href="https://github.com/acacode/kinka/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat-square"></a><a href="https://www.npmjs.com/package/kinka"><img src="https://img.shields.io/npm/v/kinka.svg?style=flat-square"></a><a href="https://travis-ci.org/acacode/kinka"><img src="https://img.shields.io/travis/acacode/kinka.svg?style=flat-square"></a><a href="http://npm-stat.com/charts.html?package=kinka"><img src="https://img.shields.io/npm/dm/kinka.svg?style=flat-square"></a>
+    <a href="https://github.com/acacode/kanal/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat-square"></a><a href="https://www.npmjs.com/package/kanal"><img src="https://img.shields.io/npm/v/kanal.svg?style=flat-square"></a><a href="https://travis-ci.org/acacode/kanal"><img src="https://img.shields.io/travis/acacode/kanal.svg?style=flat-square"></a><a href="http://npm-stat.com/charts.html?package=kanal"><img src="https://img.shields.io/npm/dm/kanal.svg?style=flat-square"></a>
   </h1>
   <p>
     Light weight event emitter
