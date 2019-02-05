@@ -25,10 +25,9 @@ const createConfig = (mode, configration) => {
       rules: [
         {
           test: /\.js$/,
-          loaders: [
-            'babel-loader',
-            isProd && 'production-js-loader'
-          ].filter(loader => loader),
+          loaders: ['babel-loader', isProd && 'production-js-loader'].filter(
+            loader => loader
+          ),
           exclude: /node_modules/,
         },
       ],
@@ -37,7 +36,4 @@ const createConfig = (mode, configration) => {
   }
 }
 
-module.exports = [
-  createConfig('production'),
-  createConfig('development')
-]
+module.exports = [createConfig('production'), createConfig('development')]
