@@ -12,5 +12,5 @@
 if (process.env.NODE_ENV === 'production') {
   module.exports = require('./dist/kanal.min.js')
 } else {
-  module.exports = require('./lib/kanal.js')
+  module.exports = require('./dist/kanal.js')
 }
